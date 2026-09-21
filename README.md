@@ -79,13 +79,13 @@ Aqui estão os principais projetos que desenvolvi, com destaque para a aplicaç�
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yurisxdz&show_icons=true&theme=navy&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisxdz&layout=compact&theme=navy&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yurisxdz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Yuri" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisxdz&layout=compact&theme=tokyonight&hide_border=true&hide=php,javascript" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurisxdz&theme=navy&hide_border=true" alt="Sequência de Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurisxdz&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
 </div>
 
 <br />
@@ -94,25 +94,23 @@ Aqui estão os principais projetos que desenvolvi, com destaque para a aplicaç�
 ## 🏆 Conquistas & Atividade
 
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=yurisxdz&theme=navy&column=4&margin-w=15&margin-h=15&no-bg=true" alt="Conquistas no GitHub" />
+  <img src="https://github-profile-trophies.vercel.app/?username=yurisxdz&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Conquistas no GitHub" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yurisxdz&theme=react-dark&hide_border=true&bg_color=0a1128&color=002d62&line=0052cc" alt="Gráfico de Atividades" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yurisxdz&theme=react-dark&hide_border=true&bg_color=0d1117&color=002d62&line=0052cc" alt="Gráfico de Atividades" />
 </div>
 
 <br />
 
-<!-- SNAKE GAME -->
+<!-- SNAKE CONTRIBUTION GAME (Mantenha esta seção, pois ela está correta no seu perfil) -->
 ## 🐍 Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yurisxdz/yurisxdz/output/github-contribution-grid-snake.svg" alt="Animação Snake" />
 </div>
-
-<br />
 
 <!-- CONTATO -->
 ## 🌐 Contato
