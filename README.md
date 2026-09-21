@@ -99,8 +99,8 @@ Aqui estão os principais projetos que desenvolvi, com destaque para a aplicaç�
 Sinta-se à vontade para entrar em contato ou se conectar comigo através dos canais abaixo:
 
 <div align="left">
-  <a href="mailto:yuricavalcanti29@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-002D62?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yuricavalcanti29@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-yuricavalcanti29%40gmail.com-002D62?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://www.linkedin.com/in/yuri-ribeiro-51b48a353/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
