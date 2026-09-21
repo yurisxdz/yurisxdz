@@ -75,23 +75,8 @@ Aqui estão os principais projetos que desenvolvi, com destaque para a aplicaç�
 
 <br />
 
-<!-- ESTATÍSTICAS DO GITHUB -->
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yurisxdz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Yuri" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisxdz&layout=compact&theme=tokyonight&hide_border=true&hide=php,javascript" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yurisxdz&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
-</div>
-
-<br />
-
-<!-- CONQUISTAS E GRÁFICO -->
-## 🏆 Conquistas & Atividade
+<!-- CONQUISTAS DO GITHUB -->
+## 🏆 Conquistas
 
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=yurisxdz&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Conquistas no GitHub" />
@@ -99,18 +84,14 @@ Aqui estão os principais projetos que desenvolvi, com destaque para a aplicaç�
 
 <br />
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yurisxdz&theme=react-dark&hide_border=true&bg_color=0d1117&color=002d62&line=0052cc" alt="Gráfico de Atividades" />
-</div>
-
-<br />
-
-<!-- SNAKE CONTRIBUTION GAME (Mantenha esta seção, pois ela está correta no seu perfil) -->
+<!-- SNAKE CONTRIBUTION GAME -->
 ## 🐍 Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yurisxdz/yurisxdz/output/github-contribution-grid-snake.svg" alt="Animação Snake" />
 </div>
+
+<br />
 
 <!-- CONTATO -->
 ## 🌐 Contato
