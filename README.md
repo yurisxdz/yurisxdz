@@ -65,10 +65,15 @@ Aqui estão os principais projetos que desenvolvi, com destaque para a aplicaç�
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="50%" valign="top">
       <h3>📜 Projeto Cordel</h3>
-      <p>Página estilizada com efeito de rolagem paralaxe (*parallax*), aplicando poesia de cordel e técnicas avançadas de posicionamento CSS.</p>
+      <p>Página estilizada com efeito de rolagem paralaxe (<em>parallax</em>), aplicando poesia de cordel e técnicas avançadas de posicionamento CSS.</p>
       <a href="https://yurisxdz.github.io/projeto-cordel/"><strong>🔗 Ver Projeto Online</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📸 Artis Photo</h3>
+      <p>Site institucional para um estúdio de fotografia e audiovisual, com menu fixo, galeria de fotos em grade, seções de serviços e contato, e layout responsivo usando CSS Grid e Flexbox.</p>
+      <a href="https://yurisxdz.github.io/pagina_fotos_profissionais/"><strong>🔗 Ver Projeto Online</strong></a>
     </td>
   </tr>
 </table>
